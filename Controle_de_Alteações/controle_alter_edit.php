@@ -44,7 +44,7 @@ if(!empty($_GET['id'])){
         <h1>Controle de Alterações</h1>
         <h2>Editar</h2>
         <button id="gravar" name="update" input="submit">&#128190 <br> <p id="gravar">Gravar</p></button>
-        <div id="voltar"><a id="voltar"  href="index.php"><img src="imagens/xxx.png" alt=""></a></div>
+        <div id="voltar"><a id="voltar"  href="index.php"><img src="imagens/voltar.png" alt=""></a></div>
     </div>
     
         <div id="cont_alt">
